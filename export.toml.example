@@ -1,0 +1,8 @@
+connection_string = 'Srvr="192.168.6.93";Ref="Trade_EP";'
+
+#destination_path = "."
+
+metaobjects = [
+     "Справочник.Товары"
+    ,"Справочник.КлассификаторЕдиницИзмерения"
+]
